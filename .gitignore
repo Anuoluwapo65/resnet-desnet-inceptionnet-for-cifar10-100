@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+# Training artifacts
+checkpoint_path/
+logs/
+models/
+runs/
+cifar10/
+
+.ipynb_checkpoints/

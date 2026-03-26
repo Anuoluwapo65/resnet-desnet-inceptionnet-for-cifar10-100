@@ -1,0 +1,8 @@
+model_name: GoogleNet
+model_params:
+  act_fn_name: relu
+  num_classes: 100
+optimizer_name: AdamW
+optimizer_params:
+  lr: 0.0001
+  weight_decay: 1.0e-07
